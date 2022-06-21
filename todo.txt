@@ -1,0 +1,10 @@
+
+
+create new post
+validate post attributes
+
+authenticate
+
+Follow each other
+
+endorse each other
